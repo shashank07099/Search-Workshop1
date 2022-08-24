@@ -16,6 +16,22 @@ One Day workshop on understanding Git, Docker and Postgres
 - You can refer [this](https://docs.github.com/en/get-started/quickstart/fork-a-repo) guide to understand how to fork and clone
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+mnj
+
+
 ##### Docker
 - To install docker go to your cloned repository and run the following command
 - `sudo sh install_docker.sh`
